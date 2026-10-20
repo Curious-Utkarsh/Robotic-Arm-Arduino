@@ -1,6 +1,6 @@
 # Teach-and-Repeat Robotic Arm — Arduino
 
-A servo arm that can be taught a motion and repeat it. Potentiometers set each joint while you teach; a button switches to play mode and the arm replays the recorded positions. My first experience of "teaching a machine".
+A servo arm that can be taught a motion and repeat it. Potentiometers set each joint while you teach; a button switches to play mode and the arm replays the recorded positions. My first experience of "teaching a machine" School project, 2018, kept as part of my learning progression.
 
 ![Robotic arm](https://user-images.githubusercontent.com/105288469/187016819-5a6cbf21-2e55-46c3-9d8d-69ccc6dd9158.gif)
 
