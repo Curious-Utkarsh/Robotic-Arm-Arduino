@@ -4,7 +4,7 @@ A servo arm that can be taught a motion and repeat it. Potentiometers set each j
 
 ![Robotic arm](https://user-images.githubusercontent.com/105288469/187016819-5a6cbf21-2e55-46c3-9d8d-69ccc6dd9158.gif)
 
-[Video of the arm](https://youtu.be/8QO0oT2Tb9E)
+[Video of the arm](https://youtu.be/8QO0oT2Tb9E) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7260871249868804096/)
 
 **Hardware:** Arduino · 4 servos (3-DOF arm + gripper) · potentiometers · push button — `Robotic_Arm_Arduino.ino`
 
